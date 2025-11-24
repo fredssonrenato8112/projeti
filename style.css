@@ -220,3 +220,13 @@ button[disabled] {
         text-align: center;
     }
 }
+
+#dov {
+    text-align: center;   
+    margin-top: 20px;
+}
+
+#dov img {
+    width: 500px;        
+    max-width: 100%;     
+}
